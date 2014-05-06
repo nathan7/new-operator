@@ -13,7 +13,7 @@ function new_() { //jshint validthis:true
   if (arguments.length === 10) return new this(arguments[0], arguments[1], arguments[2], arguments[3], arguments[4], arguments[5], arguments[6], arguments[7], arguments[8], arguments[9])
   var obj = Object.create(this.prototype)
     , ret = this.apply(obj, arguments)
-  return typeof ret === 'object'
+  return (typeof ret === 'object' && ret !== null)
     ? ret
     : obj
 }
