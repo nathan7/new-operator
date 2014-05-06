@@ -1,0 +1,22 @@
+{
+  "name": "new-operator",
+  "version": "1.0.0",
+  "description": "the new operator as a function",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/new-operator.git"
+  },
+  "keywords": [
+    "new",
+    "operator",
+    "function",
+    "utility"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/new-operator/issues"
+  },
+  "homepage": "https://github.com/nathan7/new-operator"
+}

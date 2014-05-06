@@ -1,0 +1,12 @@
+{
+  "name": "new-operator",
+  "repo": "nathan7/new-operator",
+  "description": "the new operator as a function",
+  "version": "1.0.0",
+  "keywords": ["new", "operator", "function", "utility"],
+  "dependencies": {},
+  "development": {},
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
