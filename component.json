@@ -2,7 +2,7 @@
   "name": "new-operator",
   "repo": "nathan7/new-operator",
   "description": "the new operator as a function",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": ["new", "operator", "function", "utility"],
   "dependencies": {},
   "development": {},
